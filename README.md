@@ -6,9 +6,9 @@ You can use the [editor on GitHub](https://github.com/itjijunhao/SSM/edit/master
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+关于仓库网站的更多帮助信息，可以从官网查询： https://pages.github.com/
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+关于仓库网站的更多帮助信息，可以从官网查询： https://pages.github.com/
 ```markdown
 Syntax highlighted code block
 
