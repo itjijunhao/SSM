@@ -1,3 +1,4 @@
+关于仓库网站的更多帮助信息，可以从官网查询： https://pages.github.com/
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/itjijunhao/SSM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
